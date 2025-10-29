@@ -2,3 +2,4 @@ baseURL = 'https://mcapra.github.io/resume/'
 languageCode = 'en-us'
 title = 'Matt Capra - Resume'
 theme = 'simple-resume'
+disableKinds = ["taxonomy", "term"]
