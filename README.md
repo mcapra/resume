@@ -1,4 +1,3 @@
-# resume
-Resume, published as a GitHub Page
+# Resume
 
 Forked from [tylersayshi/simple-resume](https://github.com/tylersayshi/simple-resume)
