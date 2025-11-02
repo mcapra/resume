@@ -5,8 +5,7 @@
     rel="stylesheet"
   />
 
-  {{ $style := resources.Get "main.scss" | toCSS }}
-  <link rel="stylesheet" href="{{ trim $style.RelPermalink "/" }}" />
+  <link rel="stylesheet" href="main.css" />
 
   <link
     rel="stylesheet"
