@@ -7,36 +7,20 @@ sections:
   - heading: Objective
     body: Always do what's next
 
-  - heading: Education
+  - heading: Professional Experience
     subsections:
       - heading:
-          label: Salesian High School - Goshen, NY
-          startdate: Jan 1954
-          enddate: June 1956
-        degrees:
-          - Diploma
-      - heading:
-          label: Bishop Dubois High School - Harlem
-          startdate: Jan 1953
-          enddate: Dec 1953
-      - heading:
-          label: Cardinal Hayes High School (Expelled) - The Bronx
-          startdate: Sept 1951
-          enddate: Dec 1952
-  - heading: Experiences
-    subsections:
-      - heading:
-          label: Stand-up Comedian at Usually HBO - Everywhere
-          startdate: Jun 1959
-          enddate: Jun 2008
+          label: Manager, Product Technology (Hosting)
+          startdate: Aug 2022
+          enddate: Present
         points:
-          - 'Started in a comedy duo with Jack Burns, a fellow DJ from Texas'
-          - - Jack was pretty cool
-            - He was funny and stuff
+          - >- 
+            Advise and execute on technical strategy to meet contractual obligations by collaborating with multiple development, infrastructure, and operations teams.
           - >-
-            Arrested with Lenny Bruce when he told the police that he did not
-            believe in government issues IDs
-          - In the 70s I blew up in popularity with the *Seven Dirty Words* routine
+            Advise on platform development, driving reorganization, increasing investment in business critical technologies, building sun-setting strategies for non-critical 
+            technologies with high maintenance overhead, and reducing tool sprawl.
+          - >-
+            Assist in relationship management with critical customers resulting in increases to platform availability, reduction in security exposure, and improved CSAT scores.
       - heading:
           label: Film Actor at Movie People - Los Angeles, CA
           startdate: Sep 1987
@@ -60,6 +44,23 @@ sections:
           - >-
             Court-martialed three times, and also received many nonjudicial
             punishments and reprimands
+
+  - heading: Education
+    subsections:
+      - heading:
+          label: Salesian High School - Goshen, NY
+          startdate: Jan 1954
+          enddate: June 1956
+        degrees:
+          - Diploma
+      - heading:
+          label: Bishop Dubois High School - Harlem
+          startdate: Jan 1953
+          enddate: Dec 1953
+      - heading:
+          label: Cardinal Hayes High School (Expelled) - The Bronx
+          startdate: Sept 1951
+          enddate: Dec 1952
   - heading: Some Quotes
     points:
       - >-
