@@ -8,7 +8,7 @@
         <div class="heading-line">
           <h3>{{ .label }}</h3>
           <h3>
-            {{ .startdate }} -
+            {{ if .startdate }}{{ .startdate }} - {{ end }}
             {{ if .enddate }}{{ .enddate }}{{ else }}Current{{ end }}
           </h3>
         </div>

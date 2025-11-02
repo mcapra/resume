@@ -4,13 +4,14 @@ phone: '6512691522'
 github: mcapra
 
 sections:
-  - heading: Objective
-    body: Always do what's next
-
+  - heading: Career Objective
+    body: |
+      Player-coach seeking Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
+      ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
   - heading: Professional Experience
     subsections:
       - heading:
-          label: Manager, Product Technology (Hosting)
+          label: Manager, Product Technology (Hosting) at Infinite Campus
           startdate: Aug 2022
           enddate: Present
         points:
@@ -21,64 +22,82 @@ sections:
             technologies with high maintenance overhead, and reducing tool sprawl.
           - >-
             Assist in relationship management with critical customers resulting in increases to platform availability, reduction in security exposure, and improved CSAT scores.
+          - >-
+            todo: customer migrations between platforms, maintaining excellent CSAT scores through a challenging transition.
       - heading:
-          label: Film Actor at Movie People - Los Angeles, CA
-          startdate: Sep 1987
-          enddate: Jan 2006
+          label: Manager, Software Development (Data Science) at Infinite Campus
+          startdate: May 2019
+          enddate: Aug 2022
         points:
-          - 'Started in a supporting role in *Outrageous Future*, a hit comedy'
-          - "Became the time-traveling mentor, Rufus in *Bill & Ted's Bodus Journey*"
+          - >- 
+            Managed 12m in grant funded private/public partnerships by aligning academic and philanthropic interests with Infinite Campus's mission of Transforming K12 Education®.
           - >-
-            Final movie was a voice acting position in *Cars* as the character
-            Fillmore, the green 1960 VW Bus
+            Grew the Data Science from 7 FTE to 12 FTE to reproduce patterns of successful product launches, growth, and sustainability.
+          - >-
+            Produced training materials and development workflows for onboarding new team members to: Chef, Airflow, R, Python.
+          - >-
+            Formed a cross-functional steering committee for our corporate observability strategy, creating and executing hiring plans for a team of 5 net-new FTE to address strategic gaps.
       - heading:
-          label: Radar Technician at United State Air Force - Bossier City, LA
-          startdate: Aug 1956
-          enddate: Jul 1957
+          label: Test Analysis Engineer (Data Science) at Infinite Campus
+          startdate: May 2017
+          enddate: May 2019
         points:
-          - Trained and practiced as a radar techinician at Barksdale Air Force Base
-          - 'Moonlighted as a disc jockey at local radio station, KJOE'
+          - >- 
+            Solved scaling challenges for the company's first machine-learned product, allowing usership growth from 42k to over 300k.
           - >-
-            Labeled as an 'unproductive airman' by his superiors and was given a
-            general discharge
+            Improved release processes by introducing novel quality gates, reducing build and release times from 26+ days to less than 7 days.
           - >-
-            Court-martialed three times, and also received many nonjudicial
-            punishments and reprimands
-
+            todo: Chef
+          - >-
+            todo: MLOps and DevEx
+      - heading:
+          label: Technical Support Specialist at Nagios Enterprises
+          startdate: May 2016
+          enddate: May 2017
+        points:
+          - >- 
+            Created a novel solution for Windows product integration (WMI) which replaced a deprecated technology (wmic).
+          - >-
+            Managed pre-sales engagements, leading conversion rates among support staff for 3 consecutive months.
+          - >-
+            Acted as the primary escalation point for: Java/JMX, Python, WMI, Elastic Stack
+      - heading:
+          label: Web Applications Engineer at Forever Pets
+          startdate: October 2013
+          enddate: May 2016
+        points:
+          - >- 
+            Migrated sales and fulfillment PHP applications from 4.x to 7.x, eliminating hundreds of actively exploited CVEs.
+          - >-
+            Developed and maintained a ZenCart extension to support our resellers, saving those businesses thousands of dollars per year in development and hosting costs.
+          - >-
+            Migrated shipping, sales, fulfillment, and accounting platforms from legacy, general purpose, bare-metal appliances to virtualized and cloud platforms.
+      - heading:
+          label: Independent Contractor
+          startdate: February 2010
+          enddate: August 2019
+        points:
+          - >- 
+            todo: Provided full project lifecycle management for clients.
+          - >-
+            todo: Collaborate with customers subcontractors
+          - >-
+            todo: Chef
+          - >-
+            todo: MLOps and DevEx
   - heading: Education
     subsections:
       - heading:
-          label: Salesian High School - Goshen, NY
-          startdate: Jan 1954
-          enddate: June 1956
+          label: Metropolitan State University - St Paul, MN
+          startdate: Jan 2012
+          enddate: Dec 2016
         degrees:
-          - Diploma
+          - Bachelor's of Science - Computer Science
+  - heading: Certifications
+    subsections:
       - heading:
-          label: Bishop Dubois High School - Harlem
-          startdate: Jan 1953
-          enddate: Dec 1953
+          label: Certified SysOps Administrator (AWS)
+          enddate: September 2023
       - heading:
-          label: Cardinal Hayes High School (Expelled) - The Bronx
-          startdate: Sept 1951
-          enddate: Dec 1952
-  - heading: Some Quotes
-    points:
-      - >-
-        Some people see things that are and ask, Why? Some people dream of
-        things that never were and ask, Why not? Some people have to go to work
-        and don't have time for all that.
-      - >-
-        Don't tech your children to read... teach them to *question* what they
-        read, teach them to question everything.
-      - >-
-        Trying to be happy by accumulating possessions is like trying to satisfy
-        hunger by taping sanwiches all over your body
-      - >-
-        Have you ever noticed that anybody driving slower than you is an idiot
-        and anyone going faster is a maniac?
-      - Think off-center
-      - "It's all bullshit, and it's bad for ya"
-      - >-
-        Not only do I not know what's going on, I wouldn't know what to do about
-        it if I did.
-      - Seven dirty words
+          label: PMC Level II (Pragmatic Institute)
+          enddate: December 2022
