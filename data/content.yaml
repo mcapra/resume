@@ -2,12 +2,12 @@ name: Matt Capra
 email: self@mcapra.com
 phone: '6512691522'
 github: mcapra
+linkedin: mdcapra
 
 sections:
   - heading: Career Objective
     body: |
-      Player-coach seeking Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
-      ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Seeking a leadership role that allows me to build strong engineering teams shipping compelling products.
   - heading: Professional Experience
     subsections:
       - heading:
@@ -19,11 +19,13 @@ sections:
             Advise and execute on technical strategy to meet contractual obligations by collaborating with multiple development, infrastructure, and operations teams.
           - >-
             Advise on platform development, driving reorganization, increasing investment in business critical technologies, building sun-setting strategies for non-critical 
-            technologies with high maintenance overhead, and reducing tool sprawl.
+            technologies with high maintenance overhead, and reducing investment in redundant technologies.
           - >-
             Assist in relationship management with critical customers resulting in increases to platform availability, reduction in security exposure, and improved CSAT scores.
           - >-
-            todo: customer migrations between platforms, maintaining excellent CSAT scores through a challenging transition.
+            Planned and executed a migration of 1,829 school districts to new domain names, unblocking critical feature delivery by product teams.
+          - >-
+            Standardized technical assessments as part of the hiring process, introducing practical exercises to better assess candidates' technical capabilities and understanding.
       - heading:
           label: Manager, Software Development (Data Science) at Infinite Campus
           startdate: May 2019
@@ -32,7 +34,8 @@ sections:
           - >- 
             Managed 12m in grant funded private/public partnerships by aligning academic and philanthropic interests with Infinite Campus's mission of Transforming K12 Education®.
           - >-
-            Grew the Data Science from 7 FTE to 12 FTE to reproduce patterns of successful product launches, growth, and sustainability.
+            Grew the Data Science from 7 FTE to 12 FTE to reproduce patterns of successful product launches, growth, and sustainability as Infinite Campus continued invesment into
+            analytics, data management, and artificial intelligence.
           - >-
             Produced training materials and development workflows for onboarding new team members to: Chef, Airflow, R, Python.
           - >-
@@ -47,9 +50,9 @@ sections:
           - >-
             Improved release processes by introducing novel quality gates, reducing build and release times from 26+ days to less than 7 days.
           - >-
-            todo: Chef
+            Migrated legacy VM management from bash scripts and runbooks to Chef orchestrated by Jenkins pipelines, reducing service downtime from 9 hours per year to 27 minutes per year.
           - >-
-            todo: MLOps and DevEx
+            Introduced containers to the team, eliminating all regressions caused by differences in development environments.
       - heading:
           label: Technical Support Specialist at Nagios Enterprises
           startdate: May 2016
@@ -78,13 +81,11 @@ sections:
           enddate: August 2019
         points:
           - >- 
-            todo: Provided full project lifecycle management for clients.
+            Provided full project lifecycle management and process consulting for Twin Cities area clients seeking eCommerce, fulfillment, inventory, and support solutions.
+          - >- 
+            Produced custom modules for Drupal, Magento, ZenCart, and Wordpress to meet the unique business needs of each client.
           - >-
-            todo: Collaborate with customers subcontractors
-          - >-
-            todo: Chef
-          - >-
-            todo: MLOps and DevEx
+            Coached internal development teams on use of modern software development tools.
   - heading: Education
     subsections:
       - heading:

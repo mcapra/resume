@@ -20,5 +20,10 @@
         ><i class="fab fa-github"></i> {{ . }}</a
       >
     {{ end }}
+    {{ with .linkedin }}
+      <a href="https://linkedin.com/in/{{ . }}"
+        ><i class="fab fa-linkedin"></i> {{ . }}</a
+      >
+    {{ end }}
   </div>
 </header>
