@@ -7,7 +7,7 @@ linkedin: mdcapra
 sections:
   - heading: Career Objective
     body: |
-      Seeking a leadership role that allows me to build strong engineering teams shipping compelling products.
+      Seeking a leadership role that allows me to help build strong engineering teams who ship compelling products.
   - heading: Professional Experience
     subsections:
       - heading:
@@ -23,7 +23,7 @@ sections:
           - >-
             Assist in relationship management with critical customers resulting in increases to platform availability, reduction in security exposure, and improved CSAT scores.
           - >-
-            Planned and executed a migration of 1,829 school districts to new domain names, unblocking critical feature delivery by product teams.
+            Planned and executed the migration of 1,829 school districts to new domain names, unblocking critical feature delivery by product teams.
           - >-
             Standardized technical assessments as part of the hiring process, introducing practical exercises to better assess candidates' technical capabilities and understanding.
       - heading:
@@ -32,10 +32,10 @@ sections:
           enddate: Aug 2022
         points:
           - >- 
-            Managed 12m in grant funded private/public partnerships by aligning academic and philanthropic interests with Infinite Campus's mission of Transforming K12 Education®.
+            Managed $3 million in grant funded private/public partnerships, aligning academic and philanthropic interests with Infinite Campus's mission of Transforming K12 Education®.
           - >-
             Grew the Data Science from 7 FTE to 12 FTE to reproduce patterns of successful product launches, growth, and sustainability as Infinite Campus continued invesment into
-            analytics, data management, and artificial intelligence.
+            analytics, data warehousing, and artificial intelligence.
           - >-
             Produced training materials and development workflows for onboarding new team members to: Chef, Airflow, R, Python.
           - >-
@@ -46,13 +46,16 @@ sections:
           enddate: May 2019
         points:
           - >- 
-            Solved scaling challenges for the company's first machine-learned product, allowing usership growth from 42k to over 300k.
+            Solved scaling challenges for the company's first machine-learned product, enabling usership growth from 42k to over 300k.
           - >-
             Improved release processes by introducing novel quality gates, reducing build and release times from 26+ days to less than 7 days.
           - >-
-            Migrated legacy VM management from bash scripts and runbooks to Chef orchestrated by Jenkins pipelines, reducing service downtime from 9 hours per year to 27 minutes per year.
+            Migrated legacy VM management from bash scripts and runbooks to Chef orchestrated by Jenkins pipelines, which reduced service downtime from 9 hours per year to 27 minutes per year 
+            and allowed for short-lived, more regularly updated platforms for the team's products.
           - >-
             Introduced containers to the team, eliminating all regressions caused by differences in development environments.
+          - >-
+            Wrote and maintained comprehensive tests for data pipelines, reducing the number of releases halted or stalled due to data defects from 6 per year to 0 per year.
       - heading:
           label: Technical Support Specialist at Nagios Enterprises
           startdate: May 2016
@@ -63,6 +66,8 @@ sections:
           - >-
             Managed pre-sales engagements, leading conversion rates among support staff for 3 consecutive months.
           - >-
+            Contributed to the Nagios Core open source monitoring platform as well as several community maintained plugins.
+          - >-
             Acted as the primary escalation point for: Java/JMX, Python, WMI, Elastic Stack
       - heading:
           label: Web Applications Engineer at Forever Pets
@@ -72,20 +77,30 @@ sections:
           - >- 
             Migrated sales and fulfillment PHP applications from 4.x to 7.x, eliminating hundreds of actively exploited CVEs.
           - >-
-            Developed and maintained a ZenCart extension to support our resellers, saving those businesses thousands of dollars per year in development and hosting costs.
+            Developed and maintained a Zen Cart extension to support our resellers, saving those businesses thousands of dollars per year in development and hosting costs.
           - >-
             Migrated shipping, sales, fulfillment, and accounting platforms from legacy, general purpose, bare-metal appliances to virtualized and cloud platforms.
+          - >-
+            Produced all marketing and sales materials using Adobe Creative Suite.
       - heading:
           label: Independent Contractor
           startdate: February 2010
           enddate: August 2019
         points:
-          - >- 
-            Provided full project lifecycle management and process consulting for Twin Cities area clients seeking eCommerce, fulfillment, inventory, and support solutions.
-          - >- 
-            Produced custom modules for Drupal, Magento, ZenCart, and Wordpress to meet the unique business needs of each client.
-          - >-
-            Coached internal development teams on use of modern software development tools.
+          - Provided on-going support, process consulting, and development services to 3 major clients and several smaller clients.
+          - Heavy Equipment Dealer (2015 - 2019)
+          - - Migrated inventory management system from Microsoft Access to MySQL, unblocking further improvement of the inventory management system.
+            - Coached internal development teams on use of modern software development tools and methodologies (CI/CD, testing, release management, version control, etc).
+            - Converted lead lists into existing marketing and outreach platforms, eliminating thousands of manual labor hours.
+          - Material Handling Consultancy (2010 - 2019)
+          - - Migrated 23 unsupported osCommerce deployments to Zen Cart, eliminating hundreds of actively exploited CVEs.
+            - Re-platformed 87 Wordpress deployments to WP Engine, reducing downtime and maintenance overhead.
+            - Produced marketing and sales materials using Adobe Creative Suite.
+            - Worked with clients to understand business needs, and produce software solutions to meet those needs.
+          - Outdoor Equipment Manufacturer/Retailer (2012 - 2014)
+          - - Established initial web presence, ensuring appropriate SEO and advertising investments to drive sales pipelines.
+            - Registered all products and attributes with Universal Product Codes (UPCs), allowing for new revenue streams via wholesaling to outfitters.
+            - Integrated existing inventory management processes into WooCommerce, allowing for a well-optimized eCommerce presence without significant retraining of staff.
   - heading: Education
     subsections:
       - heading:
